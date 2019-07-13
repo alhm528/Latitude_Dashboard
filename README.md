@@ -1,4 +1,4 @@
-#The website can be accessed [here](https://alhm528.github.io/Latitude_Dashboard/).
+The website can be accessed [here](https://alhm528.github.io/Latitude_Dashboard/).
 
 # Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
 
